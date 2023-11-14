@@ -1,4 +1,6 @@
-# Ex03-Univariate-Analysis
+# Ex NO : 03 Univariate Analysis
+
+## DATE : 
 
 ## AIM:
 To read the given data and perform the univariate analysis with different types of plots.
@@ -8,19 +10,28 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 
 ## ALGORITHM:
 
-Step1:Read the given data set  using standard libraries.
+### Step1:
+Read the given data set  using standard libraries.
 
-Step2:Get the information about the data.
+### Step2:
+Get the information about the data.
 
-Step3:Remove the null values from the data.
+### Step3:
+Remove the null values from the data.
 
-Step4:Mention the datatypes from the data.
+### Step4:
+Mention the datatypes from the data.
 
-Step5:Count the values from the data.
+### Step5:
+Count the values from the data.
 
-Step6:Do plots like sepallength,species,sepalwidth.
+### Step6:
+Do plots like sepallength,species,sepalwidth.
 
-## PROGRAM:
+## CODE:
+DEVELOPED BY : YUGENDARAN . G
+
+REGISTER NO : 212221220063
 ```
 import pandas as pd
 import numpy as np
