@@ -1,6 +1,6 @@
 # Ex NO : 03 Univariate Analysis
 
-## DATE : 
+## DATE : 23/09/2023
 
 ## AIM:
 To read the given data and perform the univariate analysis with different types of plots.
